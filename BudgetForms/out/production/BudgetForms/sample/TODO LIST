@@ -1,0 +1,14 @@
+Current TODO;
+
+1.) Get Functionality to all Buttons
+2.) Move Functionality to one Class to handle functionality
+3.) Setup Help and About windows
+4.) Find API to help with Excel format
+5.) Get some type of user interface
+
+
+Future Goals;
+1.) Open Excel
+2.) Parse information from files
+3.) Be able to edit information to create budgets
+4.) Edit colors for the information depending if the numbers go negative
